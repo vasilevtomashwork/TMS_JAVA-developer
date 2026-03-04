@@ -4,6 +4,7 @@
  **/
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Это изменения из ветки branch1");
+        System.out.println("test pull req");
     }
 }
+

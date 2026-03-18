@@ -7,3 +7,4 @@ public class Main {
         System.out.println("это мердж конфликт сливающий ветку branch1 в ветку main'");
     }
 }
+

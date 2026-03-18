@@ -4,7 +4,7 @@
  **/
 public class Main {
     public static void main(String[] args) {
-        System.out.println("test pull req");
+        System.out.println("это мердж конфликт сливающий ветку branch1 в ветку main'");
     }
 }
 
